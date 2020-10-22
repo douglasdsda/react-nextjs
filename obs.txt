@@ -3,3 +3,19 @@ yarn add typescript @types/react @types/node -D
 
 
 yarn dev
+
+
+daynamic router
+é basicamente rota dinamica, por exemplo nome de um produto
+
+yarn add styled-components
+yarn add @types/styled-components -D
+
+yarn add babel-styled-components -D
+
+npx json-server server.json -p 3333 -w
+npx json-server server.json -p 3333 -w -d 2000
+
+
+yarn add prismic-javascript prismic-dom
+yarn add @types/prismic-dom -D
